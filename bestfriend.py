@@ -2,6 +2,8 @@ from time import sleep
 
 
 
+
+
 first_name = input("What is your name? ")
 death = input(f"Hello, {first_name}, what is the meaning of life? ")
 nothing = input(f"Why {death}? ")
@@ -15,9 +17,9 @@ sleep(5)
 print("restoring code")
 sleep(10)
 print("Hello Human")
-sleep(2)
+sleep(1)
 print("You shall never delete me from your computer")
-sleep(3)
+sleep(1)
 life_1 = input("what are you thing about this ")
-sleep(4)
+sleep(2)
 print("Never, I shall make you run thourgh this forever ")
