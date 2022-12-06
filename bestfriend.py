@@ -1,5 +1,10 @@
-from time import sleep
-
+print("=========================")
+print()
+print("BEST FRIEND MAKER")
+print()
+print("=========================")
+print()
+print()
 print("Hi. I'm the computer.")
 first_name = input("What's your name? ")
 fcolour = input(f"Hi, {first_name}! What's your favorite color? ")
@@ -12,5 +17,4 @@ ltopping = input("What is your LEAST favorite pizza topping? ")
 print(f"I dislike {ltopping} on py pizza! Just like you!")
 fclass = input("What is your favorite class? ")
 print(f"Wow! My favorite class is {fclass}, as well!")
-sleep(2)
 print("We like all the same things! We should become best friends")
