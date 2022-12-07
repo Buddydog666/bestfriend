@@ -1,3 +1,4 @@
+print()
 print("=========================")
 print()
 print("BEST FRIEND MAKER")
